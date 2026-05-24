@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9de9e24370cd9041b348027f19b6140, type: 3}
+  m_Name: Shoreline Objectives
+  m_EditorClassIdentifier: 
+  Objectives:
+  - shortName: Drop, Cover, and Hold
+    eventID: 0
+    objectiveText: Umalis sa tent at dumapa sa lupa!
+    completeCount: 0
+    objectiveID: 0
+    localeKey: Obj.Showcase.Example01
+  - shortName: Manatili
+    eventID: 1
+    objectiveText: Manatali sa pwesto at huwag muna gumalaw.
+    completeCount: 0
+    objectiveID: 1
+    localeKey: Obj.Showcase.Example02
+  - shortName: Radyo
+    eventID: 2
+    objectiveText: Kuhain ang Radyo at makinig ng balita.
+    completeCount: 1
+    objectiveID: 2
+    localeKey: Obj.Showcase.Example03
+  - shortName: Pagkain at Gamot
+    eventID: 3
+    objectiveText: Kuhain ang mga pagkain at gamot sa iyong bag. {0}/{1}
+    completeCount: 1
+    objectiveID: 3
+    localeKey: Obj.Showcase.Example04
+  - shortName: Paglikas
+    eventID: 4
+    objectiveText: Umakyat sa pinakamataas, patag at safe na lugar sa bahagi ng bundok.
+    completeCount: 0
+    objectiveID: 4
+    localeKey: Obj.Showcase.Example05
+  - shortName: Pagpapasalamat.
+    eventID: shoreline_end
+    objectiveText: Pasalamat sa Panginoon.
+    completeCount: 0
+    objectiveID: 5
+    localeKey: Obj.Showcase.Example06
+  - shortName: Safe Zone
+    eventID: 
+    objectiveText: Pumunta sa open na lugar o Basketball court.
+    completeCount: 0
+    objectiveID: 6
+    localeKey: 
+  - shortName: Magaling!
+    eventID: 
+    objectiveText: Nalagpasan mo ang isang lindol.
+    completeCount: 0
+    objectiveID: 7
+    localeKey: 
+  enableLocalization: 0

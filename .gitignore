@@ -1,0 +1,32 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vs/
+.bezisidekick
+
+*.csproj
+*.sln
+*.tmp
+*.user
+*.pidb
+*.booproj
+
+# Huge assets
+*.fbx
+*.blend
+*.psd
+*.tif
+*.tiff
+*.exr
+*.mp4
+*.mov
+*.zip
+*.rar
+*.unitypackage
+
+# Unity baked lighting
+*LightmapSnapshot.asset

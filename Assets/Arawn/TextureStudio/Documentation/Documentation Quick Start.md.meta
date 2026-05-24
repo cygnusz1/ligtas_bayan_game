@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 571c9f9b5caf7d4f2a05640e296bfacf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 352398
+  packageName: 1-Click Texture Studio & Material Converter
+  packageVersion: 1.0.3
+  assetPath: Assets/Arawn/TextureStudio/Documentation/Documentation Quick Start.md
+  uploadId: 841148

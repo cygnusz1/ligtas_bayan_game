@@ -1,0 +1,23 @@
+<Settings>
+  <General>
+    <Option Name="input_controller" Value="0" />
+    <Option Name="game_volume" Value="1" />
+    <Option Name="mouse_sensitivity" Value="2" />
+    <Option Name="vertical_sensitivity" Value="2" />
+    <Option Name="horizontal_sensitivity" Value="2" />
+    <Option Name="invert_look" Value="False" />
+  </General>
+  <Graphic>
+    <Option Name="game_resolution" Value="0" />
+    <Option Name="game_fullscreen" Value="2" />
+    <Option Name="game_antialising" Value="0" />
+    <Option Name="game_texquality" Value="0" />
+    <Option Name="game_shadowquality" Value="0" />
+    <Option Name="game_shadowdist" Value="150" />
+    <Option Name="game_vsync" Value="False" />
+    <Option Name="game_bloom" Value="False" />
+    <Option Name="game_filmgrain" Value="False" />
+    <Option Name="game_motionblur" Value="False" />
+    <Option Name="game_ambientocc" Value="True" />
+  </Graphic>
+</Settings>
